@@ -1,6 +1,6 @@
 
 
-<h1>✨ I wanna be a code poet ✨</h1>
+***✨ I wanna be a code poet ✨***
 <!--
 **dasssseul/dasssseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20daseul👋&fontSize=70&fontAlign=50)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasssseul&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kds0339)](https://solved.ac/kds0339/)</body>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kds0339)](https://solved.ac/kds0339/)
