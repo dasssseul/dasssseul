@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20daseul👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%40I'm%20daseul👋&fontSize=70)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasssseul&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
